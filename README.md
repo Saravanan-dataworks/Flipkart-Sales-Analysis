@@ -35,9 +35,8 @@ The dashboard includes:
 ---
 
 ## 🛠️ Tech Stack
-- **Python** (Plotly, Dash / Streamlit)
+- **PowerBI** 
 - **Data Source:** (Mention your dataset or mock data)
-- **Visualization Libraries:** Plotly, Pandas
 
 ---
 
