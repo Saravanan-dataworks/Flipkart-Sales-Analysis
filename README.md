@@ -30,7 +30,7 @@ The dashboard includes:
 ---
 
 ## 📷 Dashboard Preview
-![Flipkart Dashboard](path-to-your-image.png)
+![Flipkart Dashboard](https://github.com/Saravanan-dataworks/Flipkart-Sales-Analysis/blob/main/Flipkart%20Sales%20Dashboard.jpg)
 
 ---
 
