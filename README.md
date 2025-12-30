@@ -36,11 +36,16 @@ The dashboard includes:
 
 ## 🛠️ Tech Stack
 - **PowerBI** 
-- **Data Source:** (Mention your dataset or mock data)
+- **Data Source:** (Flipkart Sales Data)
 
 ---
+
+## 📂 Folder Overview
+- `PBIX file/` → Flipkart.pbix
+- `visuals/` → Flipkart Sales Dashboard.jpg
+- `README/` → README.md
 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flipkart-dashboard.git
+   git clone https://github.com/Saravanan-dataworks/Flipkart-Sales-Analysis.git
